@@ -1,0 +1,16 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Fonts
+  font-weight: 100
+  font-weight: 400      estandar
+  font-weight: 500
+  font-weight: 700
+  font-weight: 900
+*/
